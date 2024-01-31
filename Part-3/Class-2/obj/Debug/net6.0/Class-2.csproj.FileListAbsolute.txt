@@ -1,0 +1,15 @@
+/home/leodev/MS-Learn/Part-3/Class-2/bin/Debug/net6.0/Class-2
+/home/leodev/MS-Learn/Part-3/Class-2/bin/Debug/net6.0/Class-2.deps.json
+/home/leodev/MS-Learn/Part-3/Class-2/bin/Debug/net6.0/Class-2.runtimeconfig.json
+/home/leodev/MS-Learn/Part-3/Class-2/bin/Debug/net6.0/Class-2.dll
+/home/leodev/MS-Learn/Part-3/Class-2/bin/Debug/net6.0/ref/Class-2.dll
+/home/leodev/MS-Learn/Part-3/Class-2/bin/Debug/net6.0/Class-2.pdb
+/home/leodev/MS-Learn/Part-3/Class-2/obj/Debug/net6.0/Class-2.csproj.AssemblyReference.cache
+/home/leodev/MS-Learn/Part-3/Class-2/obj/Debug/net6.0/Class-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/leodev/MS-Learn/Part-3/Class-2/obj/Debug/net6.0/Class-2.AssemblyInfoInputs.cache
+/home/leodev/MS-Learn/Part-3/Class-2/obj/Debug/net6.0/Class-2.AssemblyInfo.cs
+/home/leodev/MS-Learn/Part-3/Class-2/obj/Debug/net6.0/Class-2.csproj.CoreCompileInputs.cache
+/home/leodev/MS-Learn/Part-3/Class-2/obj/Debug/net6.0/Class-2.dll
+/home/leodev/MS-Learn/Part-3/Class-2/obj/Debug/net6.0/ref/Class-2.dll
+/home/leodev/MS-Learn/Part-3/Class-2/obj/Debug/net6.0/Class-2.pdb
+/home/leodev/MS-Learn/Part-3/Class-2/obj/Debug/net6.0/Class-2.genruntimeconfig.cache
