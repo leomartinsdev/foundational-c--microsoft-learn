@@ -64,7 +64,6 @@ while ((heroHP > 0) && (monsterHP > 0))
         atkDamage = random2.Next(1, 11);
         heroHP -= atkDamage;
         Console.WriteLine($"Hero took {atkDamage} damage. Hero has {heroHP} HP left.");
-
     }
 }
 
