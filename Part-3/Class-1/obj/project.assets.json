@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/leodev/MS-Learn/Part-3/Class-1/Class-1.csproj",
+      "projectUniqueName": "/home/leodev/Projects/MS-Learn/Part-3/Class-1/Class-1.csproj",
       "projectName": "Class-1",
-      "projectPath": "/home/leodev/MS-Learn/Part-3/Class-1/Class-1.csproj",
+      "projectPath": "/home/leodev/Projects/MS-Learn/Part-3/Class-1/Class-1.csproj",
       "packagesPath": "/home/leodev/.nuget/packages/",
-      "outputPath": "/home/leodev/MS-Learn/Part-3/Class-1/obj/",
+      "outputPath": "/home/leodev/Projects/MS-Learn/Part-3/Class-1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/leodev/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.126/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.128/RuntimeIdentifierGraph.json"
       }
     }
   }

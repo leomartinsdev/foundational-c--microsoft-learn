@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/leodev/MS-Learn/Part-4/Class-2/Class-2.csproj": {}
+    "/home/leodev/Projects/MS-Learn/Part-4/Class-2/Class-2.csproj": {}
   },
   "projects": {
-    "/home/leodev/MS-Learn/Part-4/Class-2/Class-2.csproj": {
+    "/home/leodev/Projects/MS-Learn/Part-4/Class-2/Class-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/leodev/MS-Learn/Part-4/Class-2/Class-2.csproj",
+        "projectUniqueName": "/home/leodev/Projects/MS-Learn/Part-4/Class-2/Class-2.csproj",
         "projectName": "Class-2",
-        "projectPath": "/home/leodev/MS-Learn/Part-4/Class-2/Class-2.csproj",
+        "projectPath": "/home/leodev/Projects/MS-Learn/Part-4/Class-2/Class-2.csproj",
         "packagesPath": "/home/leodev/.nuget/packages/",
-        "outputPath": "/home/leodev/MS-Learn/Part-4/Class-2/obj/",
+        "outputPath": "/home/leodev/Projects/MS-Learn/Part-4/Class-2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/leodev/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.126/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.128/RuntimeIdentifierGraph.json"
         }
       }
     }
